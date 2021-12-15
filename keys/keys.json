@@ -1,6 +1,6 @@
 {
-    "Openweather_API": "effcef612bbf3b9efb4dcbe56c1d5ed1",
-    "Fitbit_API": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM0JNUjgiLCJzdWIiOiI5TkpXU00iLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJyc29jIHJzZXQgcmFjdCBybG9jIHJ3ZWkgcmhyIHJwcm8gcm51dCByc2xlIiwiZXhwIjoxNjY3NDAyNjMxLCJpYXQiOjE2Mzk1OTA4Mjh9.UG1aVInoLOfLqGf0FW8tkwybIcXHaMSRi-YFtYSI3m4",
-    "Twilio_SID": "AC51704b8ceb8532bafba2029c2bc40087",
-    "Twilio_API": "7bee22de2d33c7f0374e48c2c2e510c0"
+    "Openweather_API": "Token",
+    "Fitbit_API": "Token",
+    "Twilio_SID": "SID",
+    "Twilio_API": "Token"
 }
